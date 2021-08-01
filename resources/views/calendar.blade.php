@@ -15,7 +15,7 @@
             <div class="page-title-box">
                 <h4 class="font-size-18">Calendar</h4>
                 <ol class="breadcrumb mb-0">
-                    <li class="breadcrumb-item"><a href="javascript: void(0);">Veltrix</a></li>
+                    <li class="breadcrumb-item"><a href="javascript: void(0);">Housedealsafrica</a></li>
                     <li class="breadcrumb-item active">Calendar</li>
                 </ol>
             </div>
