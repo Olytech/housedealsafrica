@@ -14,7 +14,7 @@
             <div class="page-title-box">
                 <h4 class="font-size-18">Horizontal</h4>
                 <ol class="breadcrumb mb-0">
-                    <li class="breadcrumb-item"><a href="javascript: void(0);">Veltrix</a></li>
+                    <li class="breadcrumb-item"><a href="javascript: void(0);">HouseDealsAfrica</a></li>
                     <li class="breadcrumb-item"><a href="javascript: void(0);"> Layouts</a></li>
                     <li class="breadcrumb-item active">Horizontal </li>
                 </ol>

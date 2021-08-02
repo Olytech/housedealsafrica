@@ -13,7 +13,7 @@
             <div class="page-title-box">
                 <h4 class="font-size-18">Dashboard</h4>
                 <ol class="breadcrumb mb-0">
-                    <li class="breadcrumb-item active">Welcome to Veltrix Dashboard</li>
+                    <li class="breadcrumb-item active">Welcome to HouseDealsAfrica</li>
                 </ol>
             </div>
         </div>
@@ -46,8 +46,8 @@
                         <div class="float-left mini-stat-img mr-4">
                             <img src="{{ URL::asset('/assets/images/services-icon/01.png') }}" alt="">
                         </div>
-                        <h5 class="font-size-16 text-uppercase mt-0 text-white-50">Orders</h5>
-                        <h4 class="font-weight-medium font-size-24">1,685 <i
+                        <h5 class="font-size-16 text-uppercase mt-0 text-white-50">Adverts</h5>
+                        <h4 class="font-weight-medium font-size-24">$1,685 <i
                                 class="mdi mdi-arrow-up text-success ml-2"></i></h4>
                         <div class="mini-stat-label bg-success">
                             <p class="mb-0">+ 12%</p>
@@ -70,7 +70,7 @@
                         <div class="float-left mini-stat-img mr-4">
                             <img src="{{ URL::asset('/assets/images/services-icon/02.png') }}" alt="">
                         </div>
-                        <h5 class="font-size-16 text-uppercase mt-0 text-white-50">Revenue</h5>
+                        <h5 class="font-size-16 text-uppercase mt-0 text-white-50">Traffic</h5>
                         <h4 class="font-weight-medium font-size-24">52,368 <i
                                 class="mdi mdi-arrow-down text-danger ml-2"></i></h4>
                         <div class="mini-stat-label bg-danger">
@@ -94,11 +94,11 @@
                         <div class="float-left mini-stat-img mr-4">
                             <img src="{{ URL::asset('/assets/images/services-icon/03.png') }}" alt="">
                         </div>
-                        <h5 class="font-size-16 text-uppercase mt-0 text-white-50">Average Price</h5>
-                        <h4 class="font-weight-medium font-size-24">15.8 <i
+                        <h5 class="font-size-16 text-uppercase mt-0 text-white-50">Nos of Listed Properties</h5>
+                        <h4 class="font-weight-medium font-size-24">35 <i
                                 class="mdi mdi-arrow-up text-success ml-2"></i></h4>
                         <div class="mini-stat-label bg-info">
-                            <p class="mb-0"> 00%</p>
+                            <p class="mb-0"> 10%</p>
                         </div>
                     </div>
                     <div class="pt-2">
@@ -106,7 +106,7 @@
                             <a href="#" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
                         </div>
 
-                        <p class="text-white-50 mb-0 mt-1">Since last month</p>
+                        <p class="text-white-50 mb-0 mt-1">Sold Out</p>
                     </div>
                 </div>
             </div>
@@ -118,11 +118,11 @@
                         <div class="float-left mini-stat-img mr-4">
                             <img src="{{ URL::asset('/assets/images/services-icon/04.png') }}" alt="">
                         </div>
-                        <h5 class="font-size-16 text-uppercase mt-0 text-white-50">Product Sold</h5>
-                        <h4 class="font-weight-medium font-size-24">2436 <i
+                        <h5 class="font-size-16 text-uppercase mt-0 text-white-50">New Properties</h5>
+                        <h4 class="font-weight-medium font-size-24">14 <i
                                 class="mdi mdi-arrow-up text-success ml-2"></i></h4>
                         <div class="mini-stat-label bg-warning">
-                            <p class="mb-0">+ 84%</p>
+                            <p class="mb-0">84%</p>
                         </div>
                     </div>
                     <div class="pt-2">
@@ -130,7 +130,7 @@
                             <a href="#" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
                         </div>
 
-                        <p class="text-white-50 mb-0 mt-1">Since last month</p>
+                        <p class="text-white-50 mb-0 mt-1">Awaiting Approval</p>
                     </div>
                 </div>
             </div>
@@ -155,8 +155,7 @@
                                     <div class="text-center">
                                         <p class="text-muted mb-4">This month</p>
                                         <h3>$34,252</h3>
-                                        <p class="text-muted mb-5">It will be as simple as in fact it will be
-                                            occidental.</p>
+                                        <p class="text-muted mb-5">Payment From Partners and Ads.</p>
                                         <span class="peity-donut"
                                             data-peity='{ "fill": ["#02a499", "#f2f2f2"], "innerRadius": 28, "radius": 32 }'
                                             data-width="72" data-height="72">4/5</span>
@@ -166,8 +165,7 @@
                                     <div class="text-center">
                                         <p class="text-muted mb-4">Last month</p>
                                         <h3>$36,253</h3>
-                                        <p class="text-muted mb-5">It will be as simple as in fact it will be
-                                            occidental.</p>
+                                        <p class="text-muted mb-5">Payment From Partners and Ads.</p>
                                         <span class="peity-donut"
                                             data-peity='{ "fill": ["#02a499", "#f2f2f2"], "innerRadius": 28, "radius": 32 }'
                                             data-width="72" data-height="72">3/5</span>
@@ -253,7 +251,7 @@
                     <h4 class="card-title mb-4">Sales Report</h4>
 
                     <div class="cleafix">
-                        <p class="float-left"><i class="mdi mdi-calendar mr-1 text-primary"></i> Jan 01 - Jan 31</p>
+                        <p class="float-left"><i class="mdi mdi-calendar mr-1 text-primary"></i> July 01 - July 31</p>
                         <h5 class="font-18 text-right">$4230</h5>
                     </div>
 
@@ -291,20 +289,19 @@
                     <ol class="activity-feed">
                         <li class="feed-item">
                             <div class="feed-item-list">
-                                <span class="date">Jan 22</span>
-                                <span class="activity-text">Responded to need “Volunteer Activities”</span>
+                                <span class="date">July 22</span>
+                                <span class="activity-text">Verified 10 Property Listing”</span>
                             </div>
                         </li>
                         <li class="feed-item">
                             <div class="feed-item-list">
-                                <span class="date">Jan 20</span>
-                                <span class="activity-text">At vero accusamus et iusto odio dignissimos ducimus qui
-                                    deleniti atque...<a href="#" class="text-success">Read more</a></span>
+                                <span class="date">July 20</span>
+                                <span class="activity-text">HouseDealsAfrica ...<a href="#" class="text-success">Read more</a></span>
                             </div>
                         </li>
                         <li class="feed-item">
                             <div class="feed-item-list">
-                                <span class="date">Jan 19</span>
+                                <span class="date">July 19</span>
                                 <span class="activity-text">Joined the group “Boardsmanship Forum”</span>
                             </div>
                         </li>
