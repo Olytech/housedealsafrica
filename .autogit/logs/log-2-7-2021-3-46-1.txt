@@ -1,0 +1,36 @@
+-------------------- Auto-Git Log --------------------
+		Mon Aug 02 2021 03:46:01 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-2-7-2021-2-6-24.txt
+* resources/views/admins/activate.blade.php
+* resources/views/admins/home.blade.php
+* resources/views/admins/member.blade.php
+* resources/views/admins/members.blade.php
+* resources/views/admins/notifications.blade.php
+* resources/views/admins/properties.blade.php
+* resources/views/admins/property.blade.php
+* resources/views/admins/transaction.blade.php
+* resources/views/admins/transactions.blade.php
+* resources/views/partners/advert.blade.php
+* resources/views/partners/adverts.blade.php
+* resources/views/partners/properties.blade.php
+* resources/views/partners/property.blade.php
+* resources/views/partners/transactions.blade.php
+* resources/views/user/reservation.blade.php
+* resources/views/user/reservations.blade.php
+* resources/views/users/home.blade.php
+* resources/views/users/notifications.blade.php
+* resources/views/users/profile.blade.php
+* resources/views/users/reservation.blade.php
+* resources/views/users/reservations.blade.php
+
+
+Deleted files:
+
+
+Renamed files:
