@@ -41,7 +41,7 @@ Route::get('index/{locale}', 'LocaleController@lang');
 
 // route group for admin
 
-
+// -----------------------------route group for Admins ------------------------------
 Route::group(['middleware' => ['auth', 'admin'], 'prefix' => 'admin'], function(){
 
     Route::get('/', 'AdminPageController@home')->name('admin.home');
@@ -58,33 +58,33 @@ Route::group(['middleware' => ['auth', 'admin'], 'prefix' => 'admin'], function(
 
     Route::get('/transaction', 'AdminPageController@transaction')->name('admin.transaction');
 
+    Route::get('/activate', 'AdminPageController@activate')->name('admin.activate');
 
+    Route::get('/notifications', 'AdminPageController@notifications')->name('admin.notifications');
 
 });
 
 
-// route group user
+// -----------------------------route group for users -----------------P-------------
+Route::group(['middleware' => ['auth', 'users'], 'prefix' => 'users'], function(){
 
-Route::group(['middleware' => ['auth', 'user'], 'prefix' => 'user'], function(){
+    Route::get('/', 'UsersPageController@home')->name('users.home');
 
-    Route::get('/', 'UsersPageController@home')->name('user.home');
+    Route::get('/profile', 'UsersPageController@profile')->name('users.profile');
 
-    Route::get('/profile', 'UsersPageController@profile')->name('user.profile');
+    Route::get('/reservations', 'UsersPageController@reservations')->name('users.reservations');
 
-    Route::get('/reservations', 'UsersPageController@reservations')->name('user.reservations');
+    Route::get('/reservation', 'UsersPageController@reservation')->name('users.reservation');
 
-    Route::get('/reservation', 'UsersPageController@reservation')->name('user.reservation');
+    Route::get('/notifications', 'UsersPageController@notifications')->name('users.notifications');
 
-    Route::get('/notifications', 'UsersPageController@notifications')->name('user.notifications');
-
-
-
+    
 });
 
 
 // route group partners
 
-
+// -----------------------------route group for Partners ------------------------------
 Route::group(['middleware' => ['auth', 'partners'], 'prefix' => 'partners'], function(){
 
     Route::get('/', 'PartnersPageController@home')->name('partners.home');
@@ -101,7 +101,8 @@ Route::group(['middleware' => ['auth', 'partners'], 'prefix' => 'partners'], fun
 
     Route::get('/advert', 'PartnersPageController@advert')->name('partners.advert');
 
-    
+    Route::get('/transactions', 'PartnersPageController@transactions')->name('partners.transactions');
+
 });
 
 
