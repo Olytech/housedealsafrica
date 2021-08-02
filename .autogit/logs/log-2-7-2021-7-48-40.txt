@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Aug 02 2021 07:48:40 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* resources/views/inc/admins_sidebar.blade.php
+
+
+Created files:
+* .autogit/logs/log-2-7-2021-7-18-19.txt
+
+
+Deleted files:
+
+
+Renamed files:
