@@ -302,7 +302,7 @@
                         <li class="feed-item">
                             <div class="feed-item-list">
                                 <span class="date">July 19</span>
-                                <span class="activity-text">Joined the group “Boardsmanship Forum”</span>
+                                <span class="activity-text">Number of Sold Property”</span>
                             </div>
                         </li>
                         <li class="feed-item">
@@ -398,15 +398,15 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <th scope="row">#14256</th>
+                                    <th scope="row">#5c1b9c</th>
                                     <td>
                                         <div>
                                             <img src="{{ URL::asset('/assets/images/users/user-2.jpg') }}" alt=""
-                                                class="avatar-xs rounded-circle mr-2"> Philip Smead
+                                                class="avatar-xs rounded-circle mr-2"> Olytech Design
                                         </div>
                                     </td>
-                                    <td>15/1/2018</td>
-                                    <td>$94</td>
+                                    <td>15/07/2021</td>
+                                    <td>$50,000</td>
                                     <td><span class="badge badge-success">Delivered</span></td>
                                     <td>
                                         <div>
@@ -415,15 +415,15 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">#14257</th>
+                                    <th scope="row">#5c1b9c</th>
                                     <td>
                                         <div>
                                             <img src="{{ URL::asset('/assets/images/users/user-3.jpg') }}" alt=""
-                                                class="avatar-xs rounded-circle mr-2"> Brent Shipley
+                                                class="avatar-xs rounded-circle mr-2"> Incendium
                                         </div>
                                     </td>
-                                    <td>16/1/2019</td>
-                                    <td>$112</td>
+                                    <td>16/7/2021</td>
+                                    <td>$122,120</td>
                                     <td><span class="badge badge-warning">Pending</span></td>
                                     <td>
                                         <div>
@@ -432,15 +432,15 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">#14258</th>
+                                    <th scope="row">#5c1b9c</th>
                                     <td>
                                         <div>
                                             <img src="{{ URL::asset('/assets/images/users/user-4.jpg') }}" alt=""
-                                                class="avatar-xs rounded-circle mr-2"> Robert Sitton
+                                                class="avatar-xs rounded-circle mr-2"> John Doe
                                         </div>
                                     </td>
-                                    <td>17/1/2019</td>
-                                    <td>$116</td>
+                                    <td>17/7/2021</td>
+                                    <td>$220,987</td>
                                     <td><span class="badge badge-success">Delivered</span></td>
                                     <td>
                                         <div>
@@ -449,15 +449,15 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">#14259</th>
+                                    <th scope="row">#5c1b9c</th>
                                     <td>
                                         <div>
                                             <img src="{{ URL::asset('/assets/images/users/user-5.jpg') }}" alt=""
-                                                class="avatar-xs rounded-circle mr-2"> Alberto Jackson
+                                                class="avatar-xs rounded-circle mr-2"> John Doe
                                         </div>
                                     </td>
-                                    <td>18/1/2019</td>
-                                    <td>$109</td>
+                                    <td>18/7/2021</td>
+                                    <td>$300,000</td>
                                     <td><span class="badge badge-danger">Cancel</span></td>
                                     <td>
                                         <div>
@@ -466,14 +466,14 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">#14260</th>
+                                    <th scope="row">#5c1b9c</th>
                                     <td>
                                         <div>
                                             <img src="{{ URL::asset('/assets/images/users/user-6.jpg') }}" alt=""
-                                                class="avatar-xs rounded-circle mr-2"> David Sanchez
+                                                class="avatar-xs rounded-circle mr-2"> John Doe
                                         </div>
                                     </td>
-                                    <td>19/1/2019</td>
+                                    <td>19/7/2021</td>
                                     <td>$120</td>
                                     <td><span class="badge badge-success">Delivered</span></td>
                                     <td>
@@ -483,15 +483,15 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">#14261</th>
+                                    <th scope="row">#5c1b9c</th>
                                     <td>
                                         <div>
                                             <img src="{{ URL::asset('/assets/images/users/user-2.jpg') }}" alt=""
-                                                class="avatar-xs rounded-circle mr-2"> Philip Smead
+                                                class="avatar-xs rounded-circle mr-2"> John Bush
                                         </div>
                                     </td>
-                                    <td>15/1/2018</td>
-                                    <td>$94</td>
+                                    <td>15/7/2021</td>
+                                    <td>$94,000</td>
                                     <td><span class="badge badge-warning">Pending</span></td>
                                     <td>
                                         <div>

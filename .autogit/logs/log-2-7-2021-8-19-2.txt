@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Aug 02 2021 08:19:02 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* resources/views/index.blade.php
+* resources/views/layouts-vertical.blade.php
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
