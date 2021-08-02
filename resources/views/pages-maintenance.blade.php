@@ -57,8 +57,8 @@
                                                 Do you need Support?</h6>
                                             <p class="text-muted mt-3">If you are going to use a passage of Lorem
                                                 Ipsum, you need to be sure there isn't anything embar.. <a
-                                                    href="mailto:no-reply@domain.com"
-                                                    class="text-decoration-underline">no-reply@domain.com</a></p>
+                                                    href="mailto:no-info@housedealsafrica.com"
+                                                    class="text-decoration-underline">no-reply@housedealsafrica.com</a></p>
                                         </div>
                                     </div>
                                 </div>
