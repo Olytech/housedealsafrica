@@ -1,0 +1,26 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 01 2021 16:51:22 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* public/assets/images/logo-light.png
+* resources/scss/_variables-dark.scss
+* resources/scss/_variables.scss
+* resources/scss/app-dark.scss
+* resources/scss/app-rtl.scss
+* resources/scss/app.scss
+* resources/scss/bootstrap-dark.scss
+* resources/scss/bootstrap.scss
+* resources/scss/icons.scss
+* resources/views/calendar.blade.php
+
+
+Created files:
+* .autogit/autogit.json
+* public/assets/images/images.zip
+
+
+Deleted files:
+
+
+Renamed files:
