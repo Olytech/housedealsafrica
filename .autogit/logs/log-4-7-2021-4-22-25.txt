@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Wed Aug 04 2021 04:22:25 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* resources/views/layouts/black.blade.php
+* resources/views/layouts/white.blade.php
+* resources/views/partners/black_child.blade.php
+* resources/views/partners/white_child.blade.php
+
+
+Deleted files:
+
+
+Renamed files:

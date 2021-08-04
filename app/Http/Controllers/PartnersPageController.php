@@ -18,6 +18,14 @@ class PartnersPageController extends Controller
         return view('partners.home');
     }
 
+    public function black_child()
+    {
+        # code...
+
+
+        return view('partners.black_child');
+    }
+
     public function profile()
     {
         # code...

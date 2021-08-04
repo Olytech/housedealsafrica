@@ -105,6 +105,8 @@ Route::group(['middleware' => ['auth', 'partners'], 'prefix' => 'partners'], fun
 
 });
 
+// ---------------------------------------------Return View---------------------------------------------------------
 
+Route::get('/black_child', 'PartnersPageController@black_child')->name('black_child');
 
 
