@@ -33,10 +33,10 @@
             </div>
 
             
-            
+
 
             <a href="https://olytechdesign.com" class="btn btn-primary btn-block mt-3" target="_blank"><i
-                    class="mdi mdi-cart mr-1"></i> Thank You</a>
+                    class="mdi mdi-shield-star-outline"></i> Thank You</a>
 
         </div>
 
