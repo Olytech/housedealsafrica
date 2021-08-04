@@ -65,25 +65,7 @@
                 <button type="button" class="btn header-item waves-effect" data-toggle="dropdown" aria-haspopup="true"
                     aria-expanded="false">
                     @switch(Session::get('lang'))
-                        @case('ru')
-                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/spain_flag.jpg') }}" alt="Header Language"
-                            height="16"> Spanish <span class="mdi mdi-chevron-down"></span>
-                        @break
-                        @case('it')
-                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/italy_flag.jpg') }}" alt="Header Language"
-                            height="16"> Italian <span class="mdi mdi-chevron-down"></span>
-                        @break
-                        @case('de')
-                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/germany_flag.jpg') }}"
-                            alt="Header Language" height="16"> German <span class="mdi mdi-chevron-down"></span>
-                        @break
-                        @case('es')
-                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/russia_flag.jpg') }}"
-                            alt="Header Language" height="16"> Russian <span class="mdi mdi-chevron-down"></span>
-                        @break
-                        @case('fr')
-                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/french_flag.jpg') }}"
-                            alt="Header Language" height="16"> French <span class="mdi mdi-chevron-down"></span>
+                        
                         @break
                         @default
                         <img class="mr-2" src="{{ URL::asset('assets/images/flags/us_flag.jpg') }}" alt="Header Language"
@@ -98,35 +80,7 @@
                             height="12"> <span class="align-middle">English</span>
                     </a>
 
-                    <!-- item-->
-                    <a href="{{ url('index/de') }}" class="dropdown-item notify-item">
-                        <img src="{{ URL::asset('assets/images/flags/germany_flag.jpg') }}" alt="user-image"
-                            class="mr-1" height="12"> <span class="align-middle">German</span>
-                    </a>
-
-                    <!-- item-->
-                    <a href="{{ url('index/it') }}" class="dropdown-item notify-item">
-                        <img src="{{ URL::asset('assets/images/flags/italy_flag.jpg') }}" alt="user-image" class="mr-1"
-                            height="12"> <span class="align-middle">Italian</span>
-                    </a>
-
-                    <!-- item-->
-                    <a href="{{ url('index/fr') }}" class="dropdown-item notify-item">
-                        <img src="{{ URL::asset('assets/images/flags/french_flag.jpg') }}" alt="user-image" class="mr-1"
-                            height="12"> <span class="align-middle">French</span>
-                    </a>
-
-                    <!-- item-->
-                    <a href="{{ url('index/es') }}" class="dropdown-item notify-item">
-                        <img src="{{ URL::asset('assets/images/flags/spain_flag.jpg') }}" alt="user-image" class="mr-1"
-                            height="12"> <span class="align-middle">Spanish</span>
-                    </a>
-
-                    <!-- item-->
-                    <a href="{{ url('index/ru') }}" class="dropdown-item notify-item">
-                        <img src="{{ URL::asset('assets/images/flags/russia_flag.jpg') }}" alt="user-image" class="mr-1"
-                            height="12"> <span class="align-middle">Russian</span>
-                    </a>
+                    
                 </div>
             </div>
 
