@@ -109,4 +109,6 @@ Route::group(['middleware' => ['auth'], 'prefix' => 'partners'], function(){
 
 Route::get('/black_child', 'PartnersPageController@black_child')->name('black_child');
 
+//-------------------------------------------PageRole Controller-----------------------------------------
+
 
