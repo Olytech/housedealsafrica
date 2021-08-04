@@ -32,10 +32,7 @@
                 <label class="custom-control-label" for="dark-mode-switch">Dark Mode</label>
             </div>
 
-            <div class="mb-2">
-                <img src="{{ URL::asset('/assets/images/layouts/layout-3.jpg') }}" class="img-fluid img-thumbnail"
-                    alt="">
-            </div>
+            
             
 
             <a href="https://olytechdesign.com" class="btn btn-primary btn-block mt-3" target="_blank"><i
