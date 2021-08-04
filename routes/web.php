@@ -85,7 +85,7 @@ Route::group(['middleware' => ['auth', 'users'], 'prefix' => 'users'], function(
 // route group partners
 
 // -----------------------------route group for Partners ------------------------------
-Route::group(['middleware' => ['auth', 'partners'], 'prefix' => 'partners'], function(){
+Route::group(['middleware' => ['auth'], 'prefix' => 'partners'], function(){
 
     Route::get('/', 'PartnersPageController@home')->name('partners.home');
 
