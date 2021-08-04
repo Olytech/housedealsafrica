@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Aug 04 2021 07:24:16 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* routes/web.php
+
+
+Created files:
+* app/Http/Controllers/ChooseRoleController.php
+
+
+Deleted files:
+
+
+Renamed files:
