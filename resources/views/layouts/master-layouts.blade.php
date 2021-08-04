@@ -50,11 +50,7 @@
     </div>
     <!-- END layout-wrapper -->
 
-    <!-- Right Sidebar -->
-        <!-- /Right-bar -->
-
-    <!-- Right bar overlay-->
-    <div class="rightbar-overlay"></div>
+    <div></div>
 
     <!-- JAVASCRIPT -->
     @include('layouts.footer-script')
