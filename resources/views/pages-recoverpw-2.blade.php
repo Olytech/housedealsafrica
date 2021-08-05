@@ -60,8 +60,8 @@
                                     <p>© <script>
                                             document.write(new Date().getFullYear())
 
-                                        </script> Veltrix. Crafted with <i class="mdi mdi-heart text-danger"></i> by
-                                        Themesbrand</p>
+                                        </script> HouseDealsAfrica. Design by
+                                        Olytech Design</p>
                                 </div>
 
                             </div>
