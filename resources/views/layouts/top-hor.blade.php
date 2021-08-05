@@ -65,7 +65,25 @@
                 <button type="button" class="btn header-item waves-effect" data-toggle="dropdown" aria-haspopup="true"
                     aria-expanded="false">
                     @switch(Session::get('lang'))
-                        
+                        @case('ru')
+                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/spain_flag.jpg') }}" alt="Header Language"
+                            height="16"> Spanish <span class="mdi mdi-chevron-down"></span>
+                        @break
+                        @case('it')
+                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/italy_flag.jpg') }}" alt="Header Language"
+                            height="16"> Italian <span class="mdi mdi-chevron-down"></span>
+                        @break
+                        @case('de')
+                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/germany_flag.jpg') }}"
+                            alt="Header Language" height="16"> German <span class="mdi mdi-chevron-down"></span>
+                        @break
+                        @case('es')
+                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/russia_flag.jpg') }}"
+                            alt="Header Language" height="16"> Russian <span class="mdi mdi-chevron-down"></span>
+                        @break
+                        @case('fr')
+                        <img class="mr-2" src="{{ URL::asset('assets/images/flags/french_flag.jpg') }}"
+                            alt="Header Language" height="16"> French <span class="mdi mdi-chevron-down"></span>
                         @break
                         @default
                         <img class="mr-2" src="{{ URL::asset('assets/images/flags/us_flag.jpg') }}" alt="Header Language"
