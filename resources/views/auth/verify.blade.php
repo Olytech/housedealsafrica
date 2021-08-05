@@ -50,7 +50,8 @@
     
                         <div class="mt-5 text-center">
                             <p>Remember It ? <a href="{{url('register')}}" class="font-weight-medium text-primary"> Sign In here </a> </p>
-                            <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Veltrix. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                            <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> HouseDealsAfrica. Design by
+                                        Olytech Design</p>
                         </div>
     
                     </div>
