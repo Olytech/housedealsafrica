@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Thu Aug 05 2021 08:40:43 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* resources/views/pages-lock-screen-2.blade.php
+* resources/views/pages-login.blade.php
+* resources/views/pages-recoverpw-2.blade.php
+* resources/views/pages-recoverpw.blade.php
+* resources/views/pages-register.blade.php
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
