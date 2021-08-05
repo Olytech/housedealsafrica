@@ -18,7 +18,7 @@
                             <div class="bg-primary">
                                 <div class="text-primary text-center p-4">
                                     <h5 class="text-white font-size-20">Welcome Back !</h5>
-                                    <p class="text-white-50">Sign in to continue to Veltrix.</p>
+                                    <p class="text-white-50">Sign in to continue to HouseDealsAfrica.</p>
                                     <a href="index" class="logo logo-admin">
                                         <img src="{{ URL::asset('/assets/images/logo-sm.png') }}" height="24" alt="logo">
                                     </a>

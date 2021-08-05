@@ -26,7 +26,7 @@
                                 </div>
 
                                 <h4 class="font-size-18 mt-5 text-center">Welcome Back !</h4>
-                                <p class="text-muted text-center">Sign in to continue to Veltrix.</p>
+                                <p class="text-muted text-center">Sign in to continue to HouseDealsAfrica.</p>
 
                                 <form class="mt-4" action="#">
 

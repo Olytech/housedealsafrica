@@ -26,7 +26,7 @@
                                 </div>
 
                                 <h4 class="font-size-18 mt-5 text-center">Free Register</h4>
-                                <p class="text-muted text-center">Get your free Veltrix account now.</p>
+                                <p class="text-muted text-center">Get your free HouseDealsAfrica account now.</p>
 
                                 <form class="mt-4" action="#">
 
