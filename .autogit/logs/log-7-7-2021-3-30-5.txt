@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sat Aug 07 2021 03:30:05 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/ChooseRoleController.php
+
+
+Created files:
+* .autogit/logs/log-6-7-2021-21-47-20.txt
+
+
+Deleted files:
+
+
+Renamed files:
