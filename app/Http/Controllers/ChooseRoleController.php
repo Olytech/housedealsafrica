@@ -13,10 +13,11 @@ class ChooseRoleController extends Controller
     public function index()
     {
         if (Auth::user()->role =='admin') {
-            return redirect('/admin');
+            return redirect('/admin/home');
         }
 
-        elseif (Auth::user()->role =='user') {
+        elseif (Auth::user()->role =='partners') {
+            return redirect('/Partners/home');
 
             // ActivityLog::create([
             //     'performed_by' => Auth::user()->id,
